@@ -5,3 +5,4 @@
 #Az egyes tárgyhoz tartozó jegyeket egy szótárban tároljátok tömbként
 #A usertől a jegyeket vesszővel elválasztva kérjétek be, ezt alakítsátok tömbbé
 #Ellenőrizzétek, hogy csak 1 és 5 közötti számokat adott
+#A házikat a baderrichard@hotmail.com címre küldjétek 2019. 10. 20. 20:00-ig
