@@ -1,0 +1,24 @@
+full_id;osm_id;osm_type;admin_leve;alt_name;boundary;name;name_de;name_en;short_name;type;wikidata;wikipedia;alt_name_d;alt_name_h;old_name;name_en_1;wikipedia_
+r215618;215618;relation;9;Csepel;administrative;XXI. kerület;XXI. Bezirk;21st district;21. kerület;boundary;Q613220;hu:Budapest XXI. kerülete;;;;;
+r215621;215621;relation;9;Budafok-Tétény;administrative;XXII. kerület;XXII. Bezirk;22nd district;22. kerület;boundary;Q370152;hu:Budapest XXII. kerülete;;;;;
+r221976;221976;relation;9;Óbuda-Békásmegyer;administrative;III. kerület;III. Bezirk;3rd district;3. kerület;boundary;Q580770;hu:Budapest III. kerülete;;;;;
+r221980;221980;relation;9;;administrative;II. kerület;II. Bezirk;2nd district;2. kerület;boundary;Q1068701;hu:Budapest II. kerülete;;;;;
+r221984;221984;relation;9;Várkerület;administrative;I. kerület;I. Bezirk;1st district;1. kerület;boundary;Q1094308;hu:Budapest I. kerülete;;;;;
+r221995;221995;relation;9;Hegyvidék;administrative;XII. kerület;XII. Bezirk;12th district;12. kerület;boundary;Q974038;hu:Budapest XII. kerülete;;;;;
+r221998;221998;relation;9;;administrative;XI. kerület;XI. Bezirk;11th district;11. kerület;boundary;Q330026;hu:Budapest XI. kerülete;Neu-Ofen;Újbuda;;;
+r367963;367963;relation;9;Újpest;administrative;IV. kerület;IV. Bezirk;4th district;4. kerület;boundary;Q330195;hu:Budapest IV. kerülete;;;;;
+r1550597;1550597;relation;9;Soroksár;administrative;XXIII. kerület;XXIII. Bezirk;23rd district;23. kerület;boundary;Q851062;hu:Budapest XXIII. kerülete;;;;;
+r1550598;1550598;relation;9;Pestszentlőrinc‑Pestszentimre;administrative;XVIII. kerület;XVIII. Bezirk;18th district;18. kerület;boundary;Q11384977;hu:Budapest XVIII. kerülete;Sankt Lorenz-Sankt Emmerich;;;;
+r1550599;1550599;relation;9;Rákosmente;administrative;XVII. kerület;XVII. Bezirk;17th district;17. kerület;boundary;Q851045;hu:Budapest XVII. kerülete;;;;;
+r1551290;1551290;relation;9;Kispest;administrative;XIX. kerület;XIX. Bezirk;19th district;19. kerület;boundary;Q857943;hu:Budapest XIX. kerülete;;;;;
+r1551291;1551291;relation;9;Pesterzsébet;administrative;XX. kerület;XX. Bezirk;20th district;20. kerület;boundary;Q851057;hu:Budapest XX. kerülete;;;Leninváros;;
+r1552462;1552462;relation;9;Ferencváros;administrative;IX. kerület;IX. Bezirk;9th district;9. kerület;boundary;Q301411;hu:Budapest IX. kerülete;;;;;
+r1552463;1552463;relation;9;Kőbánya;administrative;X. kerület;X. Bezirk;10th district;10. kerület;boundary;Q249498;hu:Budapest X. kerülete;;;;10th district;
+r1552464;1552464;relation;9;;administrative;XVI. kerület;XVI. Bezirk;16th district;16. kerület;boundary;Q851040;hu:Budapest XVI. kerülete;;;;;
+r1605916;1605916;relation;9;Újlipótváros-Angyalföld;administrative;XIII. kerület;XIII. Bezirk;13th district;13. kerület;boundary;Q851023;hu:Budapest XIII. kerülete;;;;;
+r1606009;1606009;relation;9;;administrative;XV. kerület;XV. Bezirk;15th district;15. kerület;boundary;Q858351;hu:Budapest XV. kerülete;;;;;
+r1606043;1606043;relation;9;Zugló;administrative;XIV. kerület;XIV. Bezirk;14th district;14. kerület;boundary;Q228445;hu:Budapest XIV. kerülete;;;;;
+r1606100;1606100;relation;9;Józsefváros;administrative;VIII. kerület;VIII. Bezirk;8th district;8. kerület;boundary;Q597182;hu:Budapest VIII. kerülete;;;;;8e arrondissement de Budapest
+r1606101;1606101;relation;9;Terézváros;administrative;VI. kerület;VI. Bezirk;6th district;6. kerület;boundary;Q697679;hu:Budapest VI. kerülete;;;;;
+r1606102;1606102;relation;9;Erzsébetváros;administrative;VII. kerület;VII. Bezirk;7th district;7. kerület;boundary;Q284541;hu:Budapest VII. kerülete;;;;;
+r1606103;1606103;relation;9;Belváros-Lipótváros;administrative;V. kerület;V. Bezirk;5th district;5. kerület;boundary;Q1042732;hu:Budapest V. kerülete;;;;;
