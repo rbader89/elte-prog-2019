@@ -18,8 +18,10 @@ for idx, row in enumerate(csv_reader):
     coord_x = float(row['X'])
     coord_y = float(row['Y'])
 
-    # coord = [coord_x, coord_y]
-    coord = transformer.transform(coord_x, coord_y)
+    coord = [coord_x, coord_y]
+    
+    if epsgCode == 23700:
+        coord = transformer.transform(coord_x, coord_y)
 
     print(coord)
     
