@@ -17,6 +17,15 @@ shp_writer.field('name', fieldType='C')
 for idx, row in enumerate(csv_reader):
     
     if idx != 0:
-        shp_writer.point(float(row[0]), float(row[1]))
+        # shp_writer.point(float(row[0]), float(row[1]))
+        
+        coord = [float(row[0]), float(row[1])]
+        
+        if epsgCode == 23700:
+            
+            coord = trasformer.transform(float(row[0]), float(row[1]))
+            
+        shp_writer.point(coord[0], coord[1])
+        
         shp_writer.record(X=float(row[0]), Y=float(row[1]), osm_id=int(row[2]),
         code=row[3], fclass=row[4], name=row[5])
